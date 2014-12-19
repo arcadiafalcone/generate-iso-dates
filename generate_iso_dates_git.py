@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Script by Arcadia Falcone, arcadiafalcone@gmail.com
+# Script by Arcadia Falcone, arcadiafalcone at gmail
 # Updated 2014-05-16
 
 import re
